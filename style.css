@@ -1,0 +1,20 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+.main{
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	height: 100vh;
+	width: 100%;
+}
+header{
+	background-color: purple;
+	color: white;
+	padding: 15px;
+}
+footer{
+	position: absolute;
+	bottom: 0;
+}
